@@ -16,17 +16,6 @@ The registar office then either gives the final approval or denies the request.
 If the process is rejected the user and the manager are notified and the process in terminated.
 If the process is accepted the request is now upadted in Banner.    
 
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Index.png)
+![alt tag](https://github.com/TolentinoDev/Declaration-of-major/blob/master/DOM.pdf)
 
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/login.png)
 
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Request.png)
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Requestinit.png)
-
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Manager.png)
-
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Secmanager.png)
-
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/SecManageredit.png)
-
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Email1.png)
