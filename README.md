@@ -16,6 +16,11 @@ The registar office then either gives the final approval or denies the request.
 If the process is rejected the user and the manager are notified and the process in terminated.
 If the process is accepted the request is now upadted in Banner.    
 
-![alt tag](https://github.com/TolentinoDev/Declaration-of-major/blob/master/DOM.pdf)
+# Index
+![alt tag](https://github.com/TolentinoDev/Declaration-of-major/blob/master/index.png)
+# Form Part 1
+![alt tag](https://github.com/TolentinoDev/Declaration-of-major/blob/master/form1.png)
+# Form Part 2
+![alt tag](https://github.com/TolentinoDev/Declaration-of-major/blob/master/form2.png)
 
 
