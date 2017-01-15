@@ -1,4 +1,4 @@
-# BannerSec
+# Declaration Of Major
 This web application was built for Fayetteville State University using Web2py. This appliaction was developed to replace the current Declaration Of Major Program that Fayetteville State University uses. 
 
 # What was used
